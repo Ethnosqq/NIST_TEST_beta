@@ -1,9 +1,9 @@
-Project Title: Enhancement of the NIST Randomness Test Suite
+***Project Title: Enhancement of the NIST Randomness Test Suite
 
-Project Goal:
+***Project Goal:
 The goal of the project was to expand the functionality of the existing NIST randomness test suite, enabling it to handle multiple files and create an executable application for ease of use.
 
-Key Responsibilities and Achievements:
+***Key Responsibilities and Achievements:
 
 Code Modification and Enhancement:
 Updated the execute method to support the processing of multiple input files, requiring substantial changes to the program logic. This ensured that data from various sources could be handled and analyzed concurrently. Also, ensured correct handling and cleaning of data from different file types, accounting for various formats and preprocessing needs.
